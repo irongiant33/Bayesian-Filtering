@@ -23,18 +23,18 @@ Before attempting to read the following list of resources, it is strongly recomm
 background in probability theory, linear algebra, and calculus. Here are resources that are helpful in understanding each 
 filter in greater detail:
 1) Kalman Filter
-*[MIT Tutorial](http://web.mit.edu/kirtley/kirtley/binlustuff/literature/control/Kalman%20filter.pdf)
-*[Detailed Walkthrough](https://www.kalmanfilter.net/default.aspx)
-*[YouTube Video](https://youtu.be/FkCT_LV9Syk)
+* [MIT Tutorial](http://web.mit.edu/kirtley/kirtley/binlustuff/literature/control/Kalman%20filter.pdf)
+* [Detailed Walkthrough](https://www.kalmanfilter.net/default.aspx)
+* [YouTube Video](https://youtu.be/FkCT_LV9Syk)
 
 2) Unscented Kalman Filter
-*[UKF Paper](https://www.seas.harvard.edu/courses/cs281/papers/unscented.pdf)
+* [UKF Paper](https://www.seas.harvard.edu/courses/cs281/papers/unscented.pdf)
 
 3) PDA Filter
-*[PDA Filter Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.212.383&rep=rep1&type=pdf)
+* [PDA Filter Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.212.383&rep=rep1&type=pdf)
 
 4) Bernoulli Filter
-*[Bernoulli Filter Paper](http://ba-ngu.vo-au.com/vo/RVVF_Bernoulli_TSP13.pdf)
+* [Bernoulli Filter Paper](http://ba-ngu.vo-au.com/vo/RVVF_Bernoulli_TSP13.pdf)
 
 The concepts from the unscented Kalman Filter also apply to using a nonlinear measurement model in both the PDA Filter and Bernoulli Filter.
 
